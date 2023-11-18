@@ -1,0 +1,12 @@
+.flatpickr {
+	&-calendar {
+		@media screen and (max-width: 430px) {
+			width: 100%;
+		}
+	}
+	&-days {
+		@media screen and (max-width: 430px) {
+			width: 100%;
+		}
+	}
+}
